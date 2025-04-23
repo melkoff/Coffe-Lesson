@@ -68,8 +68,8 @@ body{
     content: "";
     position: absolute;
     border-radius: 50%;
-    top: 18px;
-    left: 18px;
+    top: 12px;
+    left: 12px;
     width: 15px;
     height: 15px;
     background-color: #FF9900;
